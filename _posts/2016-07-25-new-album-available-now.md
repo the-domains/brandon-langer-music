@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-25T19:47:08.799Z'
+datePublished: '2016-07-25T19:47:59.080Z'
 sourcePath: _posts/2016-07-25-new-album-available-now.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a3108dd-5b85-42b3-9da1-ad35bf32243a.jpg
 author: []
 via: {}
-dateModified: '2016-07-25T19:47:08.503Z'
+dateModified: '2016-07-25T19:47:58.854Z'
 title: New Album Available Now!
 publisher: {}
 description: Notebook - Part 1
