@@ -1,16 +1,16 @@
-typography_spectrum: 0.2826592605561018
+typography_spectrum: 0.7808302696794271
 color:
-  brandStrength: 0.30141518474556506
-  lightness: 0.4434592672623694
-  saturation: 0.5031481836922467
-  rhythmicContrast: 0.7958979306276888
+  brandStrength: 0.2798822419717908
+  lightness: 0.3918854047078639
+  saturation: 0.6052584038116038
+  rhythmicContrast: 0.8577501450199634
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.19352627405896783
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.16586694517172873
 author:
   name: Brandon Langer
   email: b3langer@gmail.com
